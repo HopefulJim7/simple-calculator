@@ -1,7 +1,7 @@
 ---
 ##🧮 Mini Calculator
 
-A simple web-based calculator that performs basic arithmetic operations:
+A simple web-based calculator that performs basic arithmetic operations
 
 - ➕ Addition  
 - ➖ Subtraction  
