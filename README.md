@@ -1,5 +1,5 @@
 ---
-# 🧮 Mini Calculator
+##🧮 Mini Calculator
 
 A simple web-based calculator that performs basic arithmetic operations:
 
@@ -8,7 +8,8 @@ A simple web-based calculator that performs basic arithmetic operations:
 - ✖️ Multiplication  
 - ➗ Division  
 
-This project is ideal for beginners learning JavaScript, HTML, and CSS fundamentals. It validates input and provides clear feedback when invalid numbers are entered.
+This project is ideal for beginners learning JavaScript, HTML, and CSS fundamentals. 
+It validates input and provides clear feedback when invalid numbers are entered.
 
 ---
 
