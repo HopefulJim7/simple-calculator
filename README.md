@@ -1,7 +1,5 @@
 ---
-## 📝 License
-
-This project is licensed under the **MIT License**.# 🧮 Mini Calculator
+# 🧮 Mini Calculator
 
 A simple web-based calculator that performs basic arithmetic operations:
 
